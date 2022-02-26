@@ -37,7 +37,7 @@
 ```
 ## 构建
 
-本仓库已提供了构建完成后的实验报告`build/final.pdf`，也可用户自行构建。
+本仓库已提供了构建完成后的实验报告[build/final.pdf](https://raw.githubusercontent.com/OrbitZore/C-Programming-Language-Curriculum-Design-copy-/main/build/final.pdf)，也可用户自行构建。
 
 请提供Linux环境，安装`make`,`pandoc`,`xelatex`,`ctex`软件包，安装Pandoc模板[Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template)。
 
